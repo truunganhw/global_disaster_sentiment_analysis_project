@@ -9,3 +9,5 @@ This project on sentiment analysis of disaster-related tweets is divided into th
 This classification system enables researchers and disaster relief teams to utilize an automated tool that interprets social media text, thereby facilitating the detection of emergencies and ensuring timely relief efforts.
 
 The project was inspired by Typhoon Yagi (which has since been renamed), a storm that claimed thousands of lives in Vietnam in 2024; this event highlighted the need for a data science initiative to help address the challenges posed by similar disasters.
+
+This project deployed on Streamlit, focuses on information detection within text. As an NLP application, it seamlessly integrates deep learning Transformer architectures with prompt engineering and Gemini API calls to predict the semantic meaning of sentences.
